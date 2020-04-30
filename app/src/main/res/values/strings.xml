@@ -5,7 +5,7 @@
     <string name="weight">please write your weight in kg:</string>
     <string name="height">please write your height in cm:</string>
     <string name="normal">you are normal</string>
-    <string name="fat">you are obede</string>
+    <string name="fat">you are obese</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hi,I am melika afrakhteh.</string>

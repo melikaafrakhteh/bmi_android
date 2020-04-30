@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity {
                 } else if (resultnumber1 >= 30) {
                     final AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this,R.style.DialogTheme);
                     builder.setTitle("result");
-                    String m ="you are obedet:   "+resultnumber1;
+                    String m ="you are obese:   "+resultnumber1;
                     builder.setMessage(m);
                     builder.setIcon(R.drawable.ic_launcher);
                     builder.setCancelable(false);
