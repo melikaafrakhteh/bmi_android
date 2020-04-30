@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">simpleBmiCalculator</string>
+    <string name="mainText">Bmi Calculator</string>
+    <string name="textButom">Let\'s Calculate</string>
+    <string name="weight">please write your weight in kg:</string>
+    <string name="height">please write your height in cm:</string>
+    <string name="normal">you are normal</string>
+    <string name="fat">you are obede</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hi,I am melika afrakhteh.</string>
+    <string name="hello2_blank_fragment">Thank you for taking care of your health and choosing my application.</string>
+    <string name="hello3_blank_fragment">If you have a comment, suggestion, let me know by email.</string>
+    <string name="email">melikaafrakhteh@gmail.com</string>
+    <string name="start">Let\'s Start</string>
+    <string name="underw">you are under weight</string>
+    <string name="you_are_over_weight">you are over weight</string>
+    <string name="w60_0kg">60.0kg</string>
+    <string name="h_160_0cm">160.0cm</string>
+</resources>
