@@ -17,9 +17,9 @@
         android:background="@drawable/ic_action_exit" />
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="13sp"
+        android:layout_marginLeft="14dp"
         android:text="@string/hello_blank_fragment"
         android:textColor="@color/colorButtom"
         android:textSize="25sp"
