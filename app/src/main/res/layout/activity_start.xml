@@ -11,10 +11,17 @@
         android:id="@+id/buttonstart"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="4dp"
         android:text="@string/start"
-        android:textSize="40sp"
+        android:textSize="36sp"
         android:textStyle="italic"
-        android:layout_centerInParent="true"
-       android:layout_alignParentBottom="true"/>
+        android:textColor="@color/colorAccent"
+        android:padding="16dp"
+        android:background="@drawable/start_shape"/>
 
 </RelativeLayout>
